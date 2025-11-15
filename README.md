@@ -1,73 +1,51 @@
-# Welcome to your Lovable project
+# 🏏 JioLive – Cricket Streaming Platform
 
-## Project info
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Flag_of_India_%28Websafe%29.svg" alt="India Flag" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg" alt="South Africa Flag" width="80"/>
+</p>
 
-**URL**: https://lovable.dev/projects/1ff6586e-6d64-49a3-931d-0c4c66ce57fd
+**JioLive** is a live cricket streaming web application that brings fans closer to the action. Follow every ball, every run, and every wicket in real-time with a clean, responsive interface. Currently streaming: **India vs South Africa Test Series 2025** 👉 [Visit JioLive](https://theandroid-ctrl.github.io/jiolive/)
 
-## How can I edit this code?
+### ✨ Features
+- 📺 Live Match Updates – Real-time scores, wickets, and commentary  
+- 🏟️ Match Details – Venue, teams, and session updates  
+- 📅 Upcoming Fixtures – Stay informed about future matches  
+- 🎥 Video Integration – Embedded live video playback  
+- 🌐 Responsive Design – Works seamlessly across devices  
+- 🇮🇳🇿🇦 Team Flags & Branding – Visual representation of competing nations  
 
-There are several ways of editing your application.
+### 📊 Current Match Snapshot
+- Series: India vs South Africa – 1st Test  
+- Venue: Eden Gardens, Kolkata  
+- Status: Day 2 • Tea Break  
+- Scores: India 189 | South Africa 159 & 18-1  
+- Trail: South Africa trail by 12 runs  
 
-**Use Lovable**
+### 🗓️ Upcoming Match
+- Fixture: India vs South Africa – 2nd Test  
+- Date: Sat, Nov 22, 2025 • 9:00 AM IST  
+- Venue: Barsapara Cricket Stadium, Guwahati  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1ff6586e-6d64-49a3-931d-0c4c66ce57fd) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+### 🚀 Getting Started
+```bash
+git clone https://github.com/theandroid-ctrl/jiolive.git
+cd jiolive
 ```
+Open `index.html` in your browser or deploy via GitHub Pages.
 
-**Edit a file directly in GitHub**
+### 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript  
+- Hosting: GitHub Pages  
+- Media: Embedded video & flag assets  
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### 📜 License
+© 2025 JioLive. All rights reserved. This project is for cricket fans and enthusiasts to enjoy live match experiences.
 
-**Use GitHub Codespaces**
+### 🙌 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/1ff6586e-6d64-49a3-931d-0c4c66ce57fd) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+### 📡 Links
+- 🔗 [Live Demo](https://theandroid-ctrl.github.io/jiolive/)  
+- 🏏 [India Flag](https://upload.wikimedia.org/wikipedia/commons/a/a7/Flag_of_India_%28Websafe%29.svg)  
+- 🏏 [South Africa Flag](https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg)  
